@@ -1,0 +1,9 @@
+  PID TTY          TIME CMD
+ 1704 pts/0    00:00:00 bash
+ 2007 pts/0    00:00:00 bash
+ 2008 pts/0    00:00:00 ps
+README.md
+zadanie1.txt
+zadanie2.txt
+terrykk  tty7         2014-04-02 23:50
+terrykk  pts/0        2014-04-02 23:51 (:0)
